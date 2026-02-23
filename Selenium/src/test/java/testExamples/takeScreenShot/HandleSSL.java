@@ -1,0 +1,20 @@
+package testExamples.takeScreenShot;
+
+import java.time.temporal.ChronoField;
+
+import org.openqa.selenium.WebDriver;
+import org.openqa.selenium.chrome.ChromeDriver;
+import org.openqa.selenium.chrome.ChromeOptions;
+
+public class HandleSSL {
+	public static void main(String args[])
+	{
+		ChromeOptions options=new ChromeOptions();
+		options.setAcceptInsecureCerts(true);
+		
+		WebDriver driver=new ChromeDriver(options);
+		driver.get("https://expried.badssl.com/");
+		
+		System.out.println(driver.getTitle());       //expried.badssl.com
+	}
+}

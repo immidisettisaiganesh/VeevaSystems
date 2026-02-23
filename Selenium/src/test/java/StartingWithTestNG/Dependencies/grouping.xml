@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="groupingsuites">
+	<test name="groupingtests">
+
+		<groups>
+
+		 	<run>
+				<include name="functional"/>		<!-- 4 tests -->
+			</run> 
+		</groups>
+
+
+
+		<classes>
+			<class name="StartingWithTestNG.Dependencies.LoginTests" />
+			<class name="StartingWithTestNG.Dependencies.SighupTests" />
+			<class name="StartingWithTestNG.Dependencies.PaymentTests" />
+
+		</classes>
+	</test>
+</suite>
