@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+	<test name="Test1">
+		<classes>
+			<class name="StartingWithTestNG.Annotations.pack.C1" />
+			<class name="StartingWithTestNG.Annotations.pack.C2" />
+			<class name="StartingWithTestNG.Annotations.pack.C3" />
+
+		</classes>
+	</test>
+	<test name="Test2">
+		<classes>
+			<class name="StartingWithTestNG.Annotations.pack.C1" />
+			<class name="StartingWithTestNG.Annotations.pack.C2" />
+			<class name="StartingWithTestNG.Annotations.pack.C3" />
+
+		</classes>
+	</test>
+</suite>
+
+
+<!-- Before suite... before testing... Before class... checkingg...1 checkingg...2 
+	After class... checking..3 After testing... before testing... Before class... 
+	checkingg...1 checkingg...2 After class... checking..3 After testing... After 
+	suite.... -->
+	
+	
+	<!-- suite >> test >> class >> method -->

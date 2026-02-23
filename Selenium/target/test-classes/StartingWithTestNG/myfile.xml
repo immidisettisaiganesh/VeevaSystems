@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<suite name="mysuite">		<!-- Suite -->
+	<test name="my tests">   <!-- test -->
+	
+		<classes>
+			<class name="StartingWithTestNG.OrangeHRMTest" />
+			<class name="StartingWithTestNG.SampleTestNG" />
+		</classes>
+		
+	</test>
+
+</suite>
