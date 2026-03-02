@@ -1,0 +1,424 @@
+21:02:23:237 [main] INFO  testCases.TC001_AccountRegistrationTest -****Setted last name***
+21:02:27:275 [main] INFO  testCases.TC001_AccountRegistrationTest -****Setted email***
+21:02:30:305 [main] INFO  testCases.TC001_AccountRegistrationTest -****Setted telephone***
+21:02:33:336 [main] INFO  testCases.TC001_AccountRegistrationTest -****Setted password***
+21:02:36:363 [main] INFO  testCases.TC001_AccountRegistrationTest -****Setted conform password***
+21:02:43:438 [main] INFO  testCases.TC001_AccountRegistrationTest -****clicked on no at subcribed***
+21:02:50:500 [main] INFO  testCases.TC001_AccountRegistrationTest -****checked privacypolicy***
+21:02:52:521 [main] INFO  testCases.TC001_AccountRegistrationTest -****Submitted the data...***
+21:02:25:250 [main] INFO  testCases.TC001_AccountRegistrationTest -****finished Test--TC001_AccountRegistrationTest***
+21:02:04:045 [main] INFO  testCases.TC001_AccountRegistrationTest -****Started Test--TC001_AccountRegistrationTest***
+21:02:04:045 [main] INFO  testCases.TC001_AccountRegistrationTest -****loaded driver***
+21:02:13:139 [main] INFO  testCases.TC001_AccountRegistrationTest -****clicked on myaccount***
+21:02:47:476 [main] INFO  testCases.TC001_AccountRegistrationTest -****clicked on register***
+21:02:47:477 [main] INFO  testCases.TC001_AccountRegistrationTest -****Redirected to account registration page***
+21:02:50:507 [main] INFO  testCases.TC001_AccountRegistrationTest -****Setted first name***
+21:02:53:530 [main] INFO  testCases.TC001_AccountRegistrationTest -****Setted last name***
+21:02:56:560 [main] INFO  testCases.TC001_AccountRegistrationTest -****Setted email***
+21:02:58:587 [main] INFO  testCases.TC001_AccountRegistrationTest -****Setted telephone***
+21:02:61:611 [main] INFO  testCases.TC001_AccountRegistrationTest -****Setted password***
+21:02:63:636 [main] INFO  testCases.TC001_AccountRegistrationTest -****Setted conform password***
+21:02:71:714 [main] INFO  testCases.TC001_AccountRegistrationTest -****clicked on no at subcribed***
+21:02:77:777 [main] INFO  testCases.TC001_AccountRegistrationTest -****checked privacypolicy***
+21:02:79:799 [main] INFO  testCases.TC001_AccountRegistrationTest -****Submitted the data...***
+21:02:52:529 [main] INFO  testCases.TC001_AccountRegistrationTest -****finished Test--TC001_AccountRegistrationTest***
+21:02:17:178 [main] INFO  testCases.TC001_AccountRegistrationTest -****Started Test--TC001_AccountRegistrationTest***
+21:02:17:179 [main] INFO  testCases.TC001_AccountRegistrationTest -****loaded driver***
+21:02:29:296 [main] INFO  testCases.TC001_AccountRegistrationTest -****clicked on myaccount***
+21:02:68:686 [main] INFO  testCases.TC001_AccountRegistrationTest -****clicked on register***
+21:02:68:687 [main] INFO  testCases.TC001_AccountRegistrationTest -****Redirected to account registration page***
+21:02:72:729 [main] INFO  testCases.TC001_AccountRegistrationTest -****Setted first name***
+21:02:76:761 [main] INFO  testCases.TC001_AccountRegistrationTest -****Setted last name***
+21:02:80:800 [main] INFO  testCases.TC001_AccountRegistrationTest -****Setted email***
+21:02:83:839 [main] INFO  testCases.TC001_AccountRegistrationTest -****Setted telephone***
+21:02:86:869 [main] INFO  testCases.TC001_AccountRegistrationTest -****Setted password***
+21:02:89:897 [main] INFO  testCases.TC001_AccountRegistrationTest -****Setted conform password***
+21:02:98:986 [main] INFO  testCases.TC001_AccountRegistrationTest -****clicked on no at subcribed***
+21:02:04:049 [main] INFO  testCases.TC001_AccountRegistrationTest -****checked privacypolicy***
+21:02:06:068 [main] INFO  testCases.TC001_AccountRegistrationTest -****Submitted the data...***
+21:02:14:143 [main] INFO  testCases.TC001_AccountRegistrationTest -****finished Test--TC001_AccountRegistrationTest***
+21:02:47:472 [main] DEBUG org.testng.TestNG -suiteXmlPath: "C:\Selenium-workspace\OpenCartV121\t001crossbrowsertesting.xml"
+21:02:72:726 [main] INFO  org.testng.internal.Utils -[TestNG] Running:
+  C:\Selenium-workspace\OpenCartV121\t001crossbrowsertesting.xml
+
+21:02:83:832 [main] INFO  testCases.TC001_AccountRegistrationTest -****Started Test--TC001_AccountRegistrationTest***
+21:02:86:860 [main] INFO  testCases.TC001_AccountRegistrationTest -****loaded driver***
+21:02:98:983 [main] INFO  testCases.TC001_AccountRegistrationTest -****clicked on myaccount***
+21:02:38:383 [main] INFO  testCases.TC001_AccountRegistrationTest -****clicked on register***
+21:02:38:386 [main] INFO  testCases.TC001_AccountRegistrationTest -****Redirected to account registration page***
+21:02:43:433 [main] INFO  testCases.TC001_AccountRegistrationTest -****Setted first name***
+21:02:51:513 [main] INFO  testCases.TC001_AccountRegistrationTest -****Setted last name***
+21:02:58:587 [main] INFO  testCases.TC001_AccountRegistrationTest -****Setted email***
+21:02:65:652 [main] INFO  testCases.TC001_AccountRegistrationTest -****Setted telephone***
+21:02:77:778 [main] INFO  testCases.TC001_AccountRegistrationTest -****Setted password***
+21:02:87:873 [main] INFO  testCases.TC001_AccountRegistrationTest -****Setted conform password***
+21:02:03:037 [main] INFO  testCases.TC001_AccountRegistrationTest -****clicked on no at subcribed***
+21:02:12:121 [main] INFO  testCases.TC001_AccountRegistrationTest -****checked privacypolicy***
+21:02:16:165 [main] INFO  testCases.TC001_AccountRegistrationTest -****Submitted the data...***
+21:02:95:951 [main] INFO  testCases.TC001_AccountRegistrationTest -****finished Test--TC001_AccountRegistrationTest***
+21:02:10:109 [main] INFO  testCases.TC001_AccountRegistrationTest -****Started Test--TC001_AccountRegistrationTest***
+21:02:10:109 [main] INFO  testCases.TC001_AccountRegistrationTest -****loaded driver***
+21:02:19:195 [main] INFO  testCases.TC001_AccountRegistrationTest -****clicked on myaccount***
+21:02:64:646 [main] INFO  testCases.TC001_AccountRegistrationTest -****clicked on register***
+21:02:64:647 [main] INFO  testCases.TC001_AccountRegistrationTest -****Redirected to account registration page***
+21:02:72:723 [main] INFO  testCases.TC001_AccountRegistrationTest -****Setted first name***
+21:02:74:748 [main] INFO  testCases.TC001_AccountRegistrationTest -****Setted last name***
+21:02:79:798 [main] INFO  testCases.TC001_AccountRegistrationTest -****Setted email***
+21:02:82:823 [main] INFO  testCases.TC001_AccountRegistrationTest -****Setted telephone***
+21:02:84:848 [main] INFO  testCases.TC001_AccountRegistrationTest -****Setted password***
+21:02:87:870 [main] INFO  testCases.TC001_AccountRegistrationTest -****Setted conform password***
+21:02:94:948 [main] INFO  testCases.TC001_AccountRegistrationTest -****clicked on no at subcribed***
+21:02:02:027 [main] INFO  testCases.TC001_AccountRegistrationTest -****checked privacypolicy***
+21:02:04:048 [main] INFO  testCases.TC001_AccountRegistrationTest -****Submitted the data...***
+21:02:27:271 [main] INFO  testCases.TC001_AccountRegistrationTest -****finished Test--TC001_AccountRegistrationTest***
+21:02:99:996 [main] INFO  testCases.TC001_AccountRegistrationTest -****Started Test--TC001_AccountRegistrationTest***
+21:02:99:997 [main] INFO  testCases.TC001_AccountRegistrationTest -****loaded driver***
+21:02:08:084 [main] INFO  testCases.TC001_AccountRegistrationTest -****clicked on myaccount***
+21:02:76:766 [main] DEBUG org.testng.TestNG -suiteXmlPath: "C:\Selenium-workspace\OpenCartV121\t001crossbrowsertesting.xml"
+21:02:98:981 [main] INFO  org.testng.internal.Utils -[TestNG] Running:
+  C:\Selenium-workspace\OpenCartV121\t001crossbrowsertesting.xml
+
+21:02:01:019 [main] DEBUG org.testng.TestNG -suiteXmlPath: "C:\Selenium-workspace\OpenCartV121\t001crossbrowsertesting.xml"
+21:02:22:223 [main] INFO  org.testng.internal.Utils -[TestNG] Running:
+  C:\Selenium-workspace\OpenCartV121\t001crossbrowsertesting.xml
+
+21:02:87:870 [main] DEBUG org.testng.TestNG -suiteXmlPath: "C:\Selenium-workspace\OpenCartV121\t001crossbrowsertesting.xml"
+21:02:05:056 [main] INFO  org.testng.internal.Utils -[TestNG] Running:
+  C:\Selenium-workspace\OpenCartV121\t001crossbrowsertesting.xml
+
+21:02:13:131 [main] INFO  testCases.TC001_AccountRegistrationTest -****Started Test--TC001_AccountRegistrationTest***
+21:02:15:152 [main] INFO  testCases.TC001_AccountRegistrationTest -****loaded driver***
+21:02:23:236 [main] INFO  testCases.TC001_AccountRegistrationTest -****clicked on myaccount***
+21:02:51:511 [main] INFO  testCases.TC001_AccountRegistrationTest -****clicked on register***
+21:02:51:513 [main] INFO  testCases.TC001_AccountRegistrationTest -****Redirected to account registration page***
+21:02:58:589 [main] INFO  testCases.TC001_AccountRegistrationTest -****Setted first name***
+21:02:64:648 [main] INFO  testCases.TC001_AccountRegistrationTest -****Setted last name***
+21:02:70:708 [main] INFO  testCases.TC001_AccountRegistrationTest -****Setted email***
+21:02:77:770 [main] INFO  testCases.TC001_AccountRegistrationTest -****Setted telephone***
+21:02:83:830 [main] INFO  testCases.TC001_AccountRegistrationTest -****Setted password***
+21:02:88:888 [main] INFO  testCases.TC001_AccountRegistrationTest -****Setted conform password***
+21:02:94:947 [main] INFO  testCases.TC001_AccountRegistrationTest -****clicked on no at subcribed***
+21:02:00:006 [main] INFO  testCases.TC001_AccountRegistrationTest -****checked privacypolicy***
+21:02:74:741 [main] INFO  testCases.TC001_AccountRegistrationTest -****Submitted the data...***
+21:02:77:774 [main] INFO  testCases.TC001_AccountRegistrationTest -****finished Test--TC001_AccountRegistrationTest***
+21:02:03:038 [main] DEBUG org.testng.TestNG -suiteXmlPath: "C:\Selenium-workspace\OpenCartV121\t001crossbrowsertesting.xml"
+21:02:23:232 [main] INFO  org.testng.internal.Utils -[TestNG] Running:
+  C:\Selenium-workspace\OpenCartV121\t001crossbrowsertesting.xml
+
+21:02:08:081 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest -****Started Test--TC001_AccountRegistrationTest***
+21:02:08:082 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest -****Started Test--TC001_AccountRegistrationTest***
+21:02:11:116 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest -****loaded driver***
+21:02:12:123 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest -****loaded driver***
+21:02:31:317 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest -****clicked on myaccount***
+21:02:38:384 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest -****clicked on myaccount***
+21:02:19:190 [TestNG-tests-3] INFO  testCases.TC001_AccountRegistrationTest -****Started Test--TC001_AccountRegistrationTest***
+21:02:19:191 [TestNG-tests-3] INFO  testCases.TC001_AccountRegistrationTest -****loaded driver***
+21:02:35:353 [TestNG-tests-3] INFO  testCases.TC001_AccountRegistrationTest -****clicked on myaccount***
+21:02:76:762 [TestNG-tests-3] INFO  testCases.TC001_AccountRegistrationTest -****clicked on register***
+21:02:76:764 [TestNG-tests-3] INFO  testCases.TC001_AccountRegistrationTest -****Redirected to account registration page***
+21:02:82:824 [TestNG-tests-3] INFO  testCases.TC001_AccountRegistrationTest -****Setted first name***
+21:02:86:860 [TestNG-tests-3] INFO  testCases.TC001_AccountRegistrationTest -****Setted last name***
+21:02:91:912 [TestNG-tests-3] INFO  testCases.TC001_AccountRegistrationTest -****Setted email***
+21:02:94:949 [TestNG-tests-3] INFO  testCases.TC001_AccountRegistrationTest -****Setted telephone***
+21:02:99:990 [TestNG-tests-3] INFO  testCases.TC001_AccountRegistrationTest -****Setted password***
+21:02:04:043 [TestNG-tests-3] INFO  testCases.TC001_AccountRegistrationTest -****Setted conform password***
+21:02:13:131 [TestNG-tests-3] INFO  testCases.TC001_AccountRegistrationTest -****clicked on no at subcribed***
+21:02:19:193 [TestNG-tests-3] INFO  testCases.TC001_AccountRegistrationTest -****checked privacypolicy***
+21:02:22:222 [TestNG-tests-3] INFO  testCases.TC001_AccountRegistrationTest -****Submitted the data...***
+21:02:27:277 [TestNG-tests-3] INFO  testCases.TC001_AccountRegistrationTest -****finished Test--TC001_AccountRegistrationTest***
+21:02:79:796 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest -****clicked on register***
+21:02:79:797 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest -****Redirected to account registration page***
+21:02:82:827 [main] DEBUG org.testng.TestNG -suiteXmlPath: "C:\Selenium-workspace\OpenCartV121\t001crossbrowsertesting.xml"
+21:02:02:026 [main] INFO  org.testng.internal.Utils -[TestNG] Running:
+  C:\Selenium-workspace\OpenCartV121\t001crossbrowsertesting.xml
+
+21:02:11:112 [main] INFO  testCases.TC001_AccountRegistrationTest -****Started Test--TC001_AccountRegistrationTest***
+21:02:13:130 [main] INFO  testCases.TC001_AccountRegistrationTest -****loaded driver***
+21:02:19:196 [main] INFO  testCases.TC001_AccountRegistrationTest -****clicked on myaccount***
+21:02:46:465 [main] INFO  testCases.TC001_AccountRegistrationTest -****clicked on register***
+21:02:46:469 [main] INFO  testCases.TC001_AccountRegistrationTest -****Redirected to account registration page***
+21:02:53:537 [main] INFO  testCases.TC001_AccountRegistrationTest -****Setted first name***
+21:02:59:592 [main] INFO  testCases.TC001_AccountRegistrationTest -****Setted last name***
+21:02:64:645 [main] INFO  testCases.TC001_AccountRegistrationTest -****Setted email***
+21:02:70:703 [main] INFO  testCases.TC001_AccountRegistrationTest -****Setted telephone***
+21:02:75:756 [main] INFO  testCases.TC001_AccountRegistrationTest -****Setted password***
+21:02:80:804 [main] INFO  testCases.TC001_AccountRegistrationTest -****Setted conform password***
+21:02:85:852 [main] INFO  testCases.TC001_AccountRegistrationTest -****clicked on no at subcribed***
+21:02:90:903 [main] INFO  testCases.TC001_AccountRegistrationTest -****checked privacypolicy***
+21:02:62:625 [main] INFO  testCases.TC001_AccountRegistrationTest -****Submitted the data...***
+21:02:65:650 [main] INFO  testCases.TC001_AccountRegistrationTest -****finished Test--TC001_AccountRegistrationTest***
+21:02:27:278 [main] INFO  testCases.TC001_AccountRegistrationTest -****Started Test--TC001_AccountRegistrationTest***
+21:02:27:279 [main] INFO  testCases.TC001_AccountRegistrationTest -****loaded driver***
+21:02:36:369 [main] INFO  testCases.TC001_AccountRegistrationTest -****clicked on myaccount***
+21:02:70:709 [main] INFO  testCases.TC001_AccountRegistrationTest -****clicked on register***
+21:02:70:709 [main] INFO  testCases.TC001_AccountRegistrationTest -****Redirected to account registration page***
+21:02:77:778 [main] INFO  testCases.TC001_AccountRegistrationTest -****Setted first name***
+21:02:82:827 [main] INFO  testCases.TC001_AccountRegistrationTest -****Setted last name***
+21:02:87:878 [main] INFO  testCases.TC001_AccountRegistrationTest -****Setted email***
+21:02:92:926 [main] INFO  testCases.TC001_AccountRegistrationTest -****Setted telephone***
+21:02:97:976 [main] INFO  testCases.TC001_AccountRegistrationTest -****Setted password***
+21:02:02:027 [main] INFO  testCases.TC001_AccountRegistrationTest -****Setted conform password***
+21:02:07:078 [main] INFO  testCases.TC001_AccountRegistrationTest -****clicked on no at subcribed***
+21:02:13:132 [main] INFO  testCases.TC001_AccountRegistrationTest -****checked privacypolicy***
+21:02:39:399 [main] INFO  testCases.TC001_AccountRegistrationTest -****Submitted the data...***
+21:02:41:419 [main] INFO  testCases.TC001_AccountRegistrationTest -****finished Test--TC001_AccountRegistrationTest***
+21:02:54:542 [main] INFO  testCases.TC001_AccountRegistrationTest -****Started Test--TC001_AccountRegistrationTest***
+21:02:54:543 [main] INFO  testCases.TC001_AccountRegistrationTest -****loaded driver***
+21:02:64:642 [main] INFO  testCases.TC001_AccountRegistrationTest -****clicked on myaccount***
+21:02:98:986 [main] INFO  testCases.TC001_AccountRegistrationTest -****clicked on register***
+21:02:98:988 [main] INFO  testCases.TC001_AccountRegistrationTest -****Redirected to account registration page***
+21:02:03:039 [main] INFO  testCases.TC001_AccountRegistrationTest -****Setted first name***
+21:02:08:089 [main] INFO  testCases.TC001_AccountRegistrationTest -****Setted last name***
+21:02:16:167 [main] INFO  testCases.TC001_AccountRegistrationTest -****Setted email***
+21:02:19:197 [main] INFO  testCases.TC001_AccountRegistrationTest -****Setted telephone***
+21:02:23:234 [main] INFO  testCases.TC001_AccountRegistrationTest -****Setted password***
+21:02:28:289 [main] INFO  testCases.TC001_AccountRegistrationTest -****Setted conform password***
+21:02:37:376 [main] INFO  testCases.TC001_AccountRegistrationTest -****clicked on no at subcribed***
+21:02:44:441 [main] INFO  testCases.TC001_AccountRegistrationTest -****checked privacypolicy***
+21:02:45:459 [main] INFO  testCases.TC001_AccountRegistrationTest -****Submitted the data...***
+21:02:18:184 [main] INFO  testCases.TC001_AccountRegistrationTest -****finished Test--TC001_AccountRegistrationTest***
+23:02:89:898 [main] DEBUG org.testng.TestNG -suiteXmlPath: "C:\Selenium-workspace\OpenCartV121\t001crossbrowsertesting.xml"
+23:02:30:306 [main] INFO  org.testng.internal.Utils -[TestNG] Running:
+  C:\Selenium-workspace\OpenCartV121\t001crossbrowsertesting.xml
+
+23:02:35:356 [main] INFO  testCases.TC001_AccountRegistrationTest -****Started Test--TC001_AccountRegistrationTest***
+23:02:43:435 [main] INFO  testCases.TC001_AccountRegistrationTest -****loaded driver***
+23:02:73:738 [main] INFO  testCases.TC001_AccountRegistrationTest -****clicked on myaccount***
+23:02:42:427 [main] INFO  testCases.TC001_AccountRegistrationTest -****clicked on register***
+23:02:43:433 [main] INFO  testCases.TC001_AccountRegistrationTest -****Redirected to account registration page***
+23:02:66:668 [main] INFO  testCases.TC001_AccountRegistrationTest -****Setted first name***
+23:02:80:806 [main] INFO  testCases.TC001_AccountRegistrationTest -****Setted last name***
+23:02:94:943 [main] INFO  testCases.TC001_AccountRegistrationTest -****Setted email***
+23:02:05:054 [main] INFO  testCases.TC001_AccountRegistrationTest -****Setted telephone***
+23:02:18:185 [main] INFO  testCases.TC001_AccountRegistrationTest -****Setted password***
+23:02:32:323 [main] INFO  testCases.TC001_AccountRegistrationTest -****Setted conform password***
+23:02:42:427 [main] INFO  testCases.TC001_AccountRegistrationTest -****clicked on no at subcribed***
+23:02:53:539 [main] INFO  testCases.TC001_AccountRegistrationTest -****checked privacypolicy***
+23:02:55:554 [main] INFO  testCases.TC001_AccountRegistrationTest -****Submitted the data...***
+23:02:59:593 [main] INFO  testCases.TC001_AccountRegistrationTest -****finished Test--TC001_AccountRegistrationTest***
+23:02:52:523 [main] INFO  testCases.TC001_AccountRegistrationTest -****Started Test--TC001_AccountRegistrationTest***
+23:02:52:524 [main] INFO  testCases.TC001_AccountRegistrationTest -****loaded driver***
+23:02:73:730 [main] INFO  testCases.TC001_AccountRegistrationTest -****clicked on myaccount***
+23:02:34:347 [main] INFO  testCases.TC001_AccountRegistrationTest -****clicked on register***
+23:02:34:348 [main] INFO  testCases.TC001_AccountRegistrationTest -****Redirected to account registration page***
+23:02:51:511 [main] INFO  testCases.TC001_AccountRegistrationTest -****Setted first name***
+23:02:62:628 [main] INFO  testCases.TC001_AccountRegistrationTest -****Setted last name***
+23:02:75:755 [main] INFO  testCases.TC001_AccountRegistrationTest -****Setted email***
+23:02:88:887 [main] INFO  testCases.TC001_AccountRegistrationTest -****Setted telephone***
+23:02:08:088 [main] INFO  testCases.TC001_AccountRegistrationTest -****Setted password***
+23:02:22:222 [main] INFO  testCases.TC001_AccountRegistrationTest -****Setted conform password***
+23:02:36:369 [main] INFO  testCases.TC001_AccountRegistrationTest -****clicked on no at subcribed***
+23:02:52:522 [main] INFO  testCases.TC001_AccountRegistrationTest -****checked privacypolicy***
+23:02:40:406 [main] INFO  testCases.TC001_AccountRegistrationTest -****Submitted the data...***
+23:02:45:453 [main] INFO  testCases.TC001_AccountRegistrationTest -****finished Test--TC001_AccountRegistrationTest***
+23:02:48:482 [main] INFO  testCases.TC001_AccountRegistrationTest -****Started Test--TC001_AccountRegistrationTest***
+23:02:48:484 [main] INFO  testCases.TC001_AccountRegistrationTest -****loaded driver***
+23:02:63:632 [main] INFO  testCases.TC001_AccountRegistrationTest -****clicked on myaccount***
+23:02:08:082 [main] INFO  testCases.TC001_AccountRegistrationTest -****clicked on register***
+23:02:08:084 [main] INFO  testCases.TC001_AccountRegistrationTest -****Redirected to account registration page***
+23:02:13:132 [main] INFO  testCases.TC001_AccountRegistrationTest -****Setted first name***
+23:02:18:184 [main] INFO  testCases.TC001_AccountRegistrationTest -****Setted last name***
+23:02:32:328 [main] INFO  testCases.TC001_AccountRegistrationTest -****Setted email***
+23:02:45:458 [main] INFO  testCases.TC001_AccountRegistrationTest -****Setted telephone***
+23:02:51:517 [main] INFO  testCases.TC001_AccountRegistrationTest -****Setted password***
+23:02:56:565 [main] INFO  testCases.TC001_AccountRegistrationTest -****Setted conform password***
+23:02:65:655 [main] INFO  testCases.TC001_AccountRegistrationTest -****clicked on no at subcribed***
+23:02:72:728 [main] INFO  testCases.TC001_AccountRegistrationTest -****checked privacypolicy***
+23:02:75:753 [main] INFO  testCases.TC001_AccountRegistrationTest -****Submitted the data...***
+23:02:68:686 [main] INFO  testCases.TC001_AccountRegistrationTest -****finished Test--TC001_AccountRegistrationTest***
+23:02:72:721 [main] DEBUG org.testng.TestNG -suiteXmlPath: "C:\Selenium-workspace\OpenCartV121\t001crossbrowsertesting.xml"
+23:02:18:184 [main] INFO  org.testng.internal.Utils -[TestNG] Running:
+  C:\Selenium-workspace\OpenCartV121\t001crossbrowsertesting.xml
+
+23:02:77:770 [main] DEBUG org.testng.TestNG -suiteXmlPath: "C:\Selenium-workspace\OpenCartV121\t001crossbrowsertesting.xml"
+23:02:21:218 [main] INFO  org.testng.internal.Utils -[TestNG] Running:
+  C:\Selenium-workspace\OpenCartV121\t001crossbrowsertesting.xml
+
+23:02:04:049 [main] DEBUG org.testng.TestNG -suiteXmlPath: "C:\Selenium-workspace\OpenCartV121\grid_docker.xml"
+23:02:42:421 [main] INFO  org.testng.internal.Utils -[TestNG] Running:
+  C:\Selenium-workspace\OpenCartV121\grid_docker.xml
+
+23:02:95:957 [main] DEBUG org.testng.TestNG -suiteXmlPath: "C:\Selenium-workspace\OpenCartV121\grid_docker.xml"
+23:02:32:327 [main] INFO  org.testng.internal.Utils -[TestNG] Running:
+  C:\Selenium-workspace\OpenCartV121\grid_docker.xml
+
+23:02:55:558 [main] DEBUG org.testng.TestNG -suiteXmlPath: "C:\Selenium-workspace\OpenCartV121\grid_docker.xml"
+23:02:92:924 [main] INFO  org.testng.internal.Utils -[TestNG] Running:
+  C:\Selenium-workspace\OpenCartV121\grid_docker.xml
+
+23:02:15:159 [main] DEBUG org.testng.TestNG -suiteXmlPath: "C:\Selenium-workspace\OpenCartV121\grid_docker.xml"
+23:02:51:518 [main] INFO  org.testng.internal.Utils -[TestNG] Running:
+  C:\Selenium-workspace\OpenCartV121\grid_docker.xml
+
+23:02:12:129 [main] DEBUG org.testng.TestNG -suiteXmlPath: "C:\Selenium-workspace\OpenCartV121\grid_docker.xml"
+23:02:14:147 [main] WARN  org.testng.xml.TestNGContentHandler -It is strongly recommended to add "<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.1.dtd" >" at the top of the suite file [C:\Selenium-workspace\OpenCartV121\grid_docker.xml] otherwise TestNG may fail or not work as expected.
+23:02:71:710 [main] INFO  org.testng.internal.Utils -[TestNG] Running:
+  C:\Selenium-workspace\OpenCartV121\grid_docker.xml
+
+00:03:26:262 [main] DEBUG org.testng.TestNG -suiteXmlPath: "C:\Selenium-workspace\OpenCartV121\grid_docker.xml"
+00:03:28:288 [main] WARN  org.testng.xml.TestNGContentHandler -It is strongly recommended to add "<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.1.dtd" >" at the top of the suite file [C:\Selenium-workspace\OpenCartV121\grid_docker.xml] otherwise TestNG may fail or not work as expected.
+00:03:83:832 [main] INFO  org.testng.internal.Utils -[TestNG] Running:
+  C:\Selenium-workspace\OpenCartV121\grid_docker.xml
+
+00:03:99:993 [main] DEBUG org.testng.TestNG -suiteXmlPath: "C:\Selenium-workspace\OpenCartV121\grid_docker.xml"
+00:03:03:032 [main] WARN  org.testng.xml.TestNGContentHandler -It is strongly recommended to add "<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.1.dtd" >" at the top of the suite file [C:\Selenium-workspace\OpenCartV121\grid_docker.xml] otherwise TestNG may fail or not work as expected.
+00:03:79:791 [main] INFO  org.testng.internal.Utils -[TestNG] Running:
+  C:\Selenium-workspace\OpenCartV121\grid_docker.xml
+
+00:03:38:387 [main] DEBUG org.testng.TestNG -suiteXmlPath: "C:\Selenium-workspace\OpenCartV121\grid_docker.xml"
+00:03:42:425 [main] WARN  org.testng.xml.TestNGContentHandler -It is strongly recommended to add "<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.1.dtd" >" at the top of the suite file [C:\Selenium-workspace\OpenCartV121\grid_docker.xml] otherwise TestNG may fail or not work as expected.
+00:03:05:051 [main] INFO  org.testng.internal.Utils -[TestNG] Running:
+  C:\Selenium-workspace\OpenCartV121\grid_docker.xml
+
+00:03:02:024 [main] DEBUG org.testng.TestNG -suiteXmlPath: "C:\Selenium-workspace\OpenCartV121\grid_docker.xml"
+00:03:04:049 [main] WARN  org.testng.xml.TestNGContentHandler -It is strongly recommended to add "<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.1.dtd" >" at the top of the suite file [C:\Selenium-workspace\OpenCartV121\grid_docker.xml] otherwise TestNG may fail or not work as expected.
+00:03:49:494 [main] INFO  org.testng.internal.Utils -[TestNG] Running:
+  C:\Selenium-workspace\OpenCartV121\grid_docker.xml
+
+15:03:87:878 [main] DEBUG org.testng.TestNG -suiteXmlPath: "C:\Selenium-workspace\OpenCartV121\t001crossbrowsertesting.xml"
+15:03:23:235 [main] INFO  org.testng.internal.Utils -[TestNG] Running:
+  C:\Selenium-workspace\OpenCartV121\t001crossbrowsertesting.xml
+
+15:03:46:461 [main] DEBUG org.testng.TestNG -suiteXmlPath: "C:\Selenium-workspace\OpenCartV121\t001crossbrowsertesting.xml"
+15:03:84:848 [main] INFO  org.testng.internal.Utils -[TestNG] Running:
+  C:\Selenium-workspace\OpenCartV121\t001crossbrowsertesting.xml
+
+15:03:94:944 [main] DEBUG org.testng.TestNG -suiteXmlPath: "C:\Selenium-workspace\OpenCartV121\t001crossbrowsertesting.xml"
+15:03:31:319 [main] INFO  org.testng.internal.Utils -[TestNG] Running:
+  C:\Selenium-workspace\OpenCartV121\t001crossbrowsertesting.xml
+
+15:03:04:044 [main] DEBUG org.testng.TestNG -suiteXmlPath: "C:\Selenium-workspace\OpenCartV121\grouping.xml"
+15:03:42:422 [main] INFO  org.testng.internal.Utils -[TestNG] Running:
+  C:\Selenium-workspace\OpenCartV121\grouping.xml
+
+22:03:54:549 [main] DEBUG org.testng.TestNG -suiteXmlPath: "C:\Selenium-workspace\OpenCartV121\t001master.xml"
+23:03:45:457 [main] DEBUG org.testng.TestNG -suiteXmlPath: "C:\Selenium-workspace\OpenCartV121\t002Login.xml"
+23:03:90:901 [main] DEBUG org.testng.TestNG -suiteXmlPath: "C:\Selenium-workspace\OpenCartV121\t002Login.xml"
+23:03:93:931 [main] DEBUG org.testng.TestNG -suiteXmlPath: "C:\Selenium-workspace\OpenCartV121\t002Login.xml"
+23:03:13:132 [main] INFO  org.testng.internal.Utils -[TestNG] Running:
+  C:\Selenium-workspace\OpenCartV121\t002Login.xml
+
+23:03:71:714 [main] DEBUG org.testng.TestNG -suiteXmlPath: "C:\Selenium-workspace\OpenCartV121\t001master.xml"
+23:03:89:898 [main] INFO  org.testng.internal.Utils -[TestNG] Running:
+  C:\Selenium-workspace\OpenCartV121\t001master.xml
+
+23:03:38:380 [main] DEBUG org.testng.TestNG -suiteXmlPath: "C:\Selenium-workspace\OpenCartV121\t001master.xml"
+23:03:55:555 [main] INFO  org.testng.internal.Utils -[TestNG] Running:
+  C:\Selenium-workspace\OpenCartV121\t001master.xml
+
+23:03:87:874 [main] DEBUG org.testng.TestNG -suiteXmlPath: "C:\Selenium-workspace\OpenCartV121\t001master.xml"
+23:03:05:054 [main] INFO  org.testng.internal.Utils -[TestNG] Running:
+  C:\Selenium-workspace\OpenCartV121\t001master.xml
+
+23:03:00:002 [main] DEBUG org.testng.TestNG -suiteXmlPath: "C:\Selenium-workspace\OpenCartV121\t001master.xml"
+23:03:18:182 [main] INFO  org.testng.internal.Utils -[TestNG] Running:
+  C:\Selenium-workspace\OpenCartV121\t001master.xml
+
+23:03:44:446 [main] DEBUG org.testng.TestNG -suiteXmlPath: "C:\Selenium-workspace\OpenCartV121\t001master.xml"
+23:03:62:626 [main] INFO  org.testng.internal.Utils -[TestNG] Running:
+  C:\Selenium-workspace\OpenCartV121\t001master.xml
+
+23:03:50:502 [main] DEBUG org.testng.TestNG -suiteXmlPath: "C:\Selenium-workspace\OpenCartV121\t001master.xml"
+23:03:69:691 [main] INFO  org.testng.internal.Utils -[TestNG] Running:
+  C:\Selenium-workspace\OpenCartV121\t001master.xml
+
+23:03:51:514 [main] DEBUG org.testng.TestNG -suiteXmlPath: "C:\Selenium-workspace\OpenCartV121\t001master.xml"
+23:03:69:697 [main] INFO  org.testng.internal.Utils -[TestNG] Running:
+  C:\Selenium-workspace\OpenCartV121\t001master.xml
+
+23:03:58:587 [TestNG-test-Testchrome-1] INFO  testCases.TC001_AccountRegistrationTest -****Started Test--TC001_AccountRegistrationTest***
+23:03:60:606 [TestNG-test-Testchrome-1] INFO  testCases.TC001_AccountRegistrationTest -****loaded driver***
+23:03:67:679 [TestNG-test-Testchrome-1] INFO  testCases.TC001_AccountRegistrationTest -****clicked on myaccount***
+23:03:97:978 [TestNG-test-Testchrome-1] INFO  testCases.TC001_AccountRegistrationTest -****clicked on register***
+23:03:98:981 [TestNG-test-Testchrome-1] INFO  testCases.TC001_AccountRegistrationTest -****Redirected to account registration page***
+23:03:05:050 [TestNG-test-Testchrome-1] INFO  testCases.TC001_AccountRegistrationTest -****Setted first name***
+23:03:10:104 [TestNG-test-Testchrome-1] INFO  testCases.TC001_AccountRegistrationTest -****Setted last name***
+23:03:16:160 [TestNG-test-Testchrome-1] INFO  testCases.TC001_AccountRegistrationTest -****Setted email***
+23:03:21:213 [TestNG-test-Testchrome-1] INFO  testCases.TC001_AccountRegistrationTest -****Setted telephone***
+23:03:28:282 [TestNG-test-Testchrome-1] INFO  testCases.TC001_AccountRegistrationTest -****Setted password***
+23:03:33:331 [TestNG-test-Testchrome-1] INFO  testCases.TC001_AccountRegistrationTest -****Setted conform password***
+23:03:38:382 [TestNG-test-Testchrome-1] INFO  testCases.TC001_AccountRegistrationTest -****clicked on no at subcribed***
+23:03:44:440 [TestNG-test-Testchrome-1] INFO  testCases.TC001_AccountRegistrationTest -****checked privacypolicy***
+23:03:16:169 [TestNG-test-Testchrome-1] INFO  testCases.TC001_AccountRegistrationTest -****Submitted the data...***
+23:03:19:196 [TestNG-test-Testchrome-1] INFO  testCases.TC001_AccountRegistrationTest -****finished Test--TC001_AccountRegistrationTest***
+23:03:52:528 [main] DEBUG org.testng.TestNG -suiteXmlPath: "C:\Selenium-workspace\OpenCartV121\t002Login.xml"
+23:03:49:491 [main] INFO  testCases.TC002_LoginTest -***Starting of Test--TC002_LoginTest***
+23:03:50:508 [main] INFO  testCases.TC002_LoginTest -opened home page
+23:03:60:601 [main] INFO  testCases.TC002_LoginTest -clicked on login
+23:03:81:816 [main] INFO  testCases.TC002_LoginTest -Entered the data
+23:03:86:864 [main] INFO  testCases.TC002_LoginTest -Test-TC002 passed
+23:03:86:865 [main] INFO  testCases.TC002_LoginTest -**Test-2 Finished***
+23:03:71:717 [main] DEBUG org.testng.TestNG -suiteXmlPath: "C:\Selenium-workspace\OpenCartV121\t001master.xml"
+23:03:92:920 [main] INFO  org.testng.internal.Utils -[TestNG] Running:
+  C:\Selenium-workspace\OpenCartV121\t001master.xml
+
+23:03:49:492 [TestNG-test-Testchrome-1] INFO  testCases.TC001_AccountRegistrationTest -****Started Test--TC001_AccountRegistrationTest***
+23:03:51:510 [TestNG-test-Testchrome-1] INFO  testCases.TC001_AccountRegistrationTest -****loaded driver***
+23:03:59:590 [TestNG-test-Testchrome-1] INFO  testCases.TC001_AccountRegistrationTest -****clicked on myaccount***
+23:03:89:896 [TestNG-test-Testchrome-1] INFO  testCases.TC001_AccountRegistrationTest -****clicked on register***
+23:03:89:899 [TestNG-test-Testchrome-1] INFO  testCases.TC001_AccountRegistrationTest -****Redirected to account registration page***
+23:03:97:973 [TestNG-test-Testchrome-1] INFO  testCases.TC001_AccountRegistrationTest -****Setted first name***
+23:03:03:035 [TestNG-test-Testchrome-1] INFO  testCases.TC001_AccountRegistrationTest -****Setted last name***
+23:03:10:101 [TestNG-test-Testchrome-1] INFO  testCases.TC001_AccountRegistrationTest -****Setted email***
+23:03:16:163 [TestNG-test-Testchrome-1] INFO  testCases.TC001_AccountRegistrationTest -****Setted telephone***
+23:03:22:227 [TestNG-test-Testchrome-1] INFO  testCases.TC001_AccountRegistrationTest -****Setted password***
+23:03:28:289 [TestNG-test-Testchrome-1] INFO  testCases.TC001_AccountRegistrationTest -****Setted conform password***
+23:03:35:358 [TestNG-test-Testchrome-1] INFO  testCases.TC001_AccountRegistrationTest -****clicked on no at subcribed***
+23:03:42:425 [TestNG-test-Testchrome-1] INFO  testCases.TC001_AccountRegistrationTest -****checked privacypolicy***
+23:03:33:336 [TestNG-test-Testchrome-1] INFO  testCases.TC001_AccountRegistrationTest -****Submitted the data...***
+23:03:37:373 [TestNG-test-Testchrome-1] INFO  testCases.TC001_AccountRegistrationTest -****finished Test--TC001_AccountRegistrationTest***
+23:03:60:602 [main] DEBUG org.testng.TestNG -suiteXmlPath: "C:\Selenium-workspace\OpenCartV121\t002Login.xml"
+23:03:82:822 [main] INFO  testCases.TC002_LoginTest -***Starting of Test--TC002_LoginTest***
+23:03:83:838 [main] INFO  testCases.TC002_LoginTest -opened home page
+23:03:91:910 [main] INFO  testCases.TC002_LoginTest -clicked on login
+23:03:14:148 [main] INFO  testCases.TC002_LoginTest -Entered the data
+23:03:15:150 [main] INFO  testCases.TC002_LoginTest -Test-TC002 passed
+23:03:15:150 [main] INFO  testCases.TC002_LoginTest -**Test-2 Finished***
+23:03:17:171 [main] DEBUG org.testng.TestNG -suiteXmlPath: "C:\Selenium-workspace\OpenCartV121\t001crossbrowsertesting.xml"
+23:03:36:365 [main] INFO  org.testng.internal.Utils -[TestNG] Running:
+  C:\Selenium-workspace\OpenCartV121\t001crossbrowsertesting.xml
+
+23:03:22:226 [main] INFO  testCases.TC001_AccountRegistrationTest -****Started Test--TC001_AccountRegistrationTest***
+23:03:24:243 [main] INFO  testCases.TC001_AccountRegistrationTest -****loaded driver***
+23:03:32:323 [main] INFO  testCases.TC001_AccountRegistrationTest -****clicked on myaccount***
+23:03:61:612 [main] INFO  testCases.TC001_AccountRegistrationTest -****clicked on register***
+23:03:61:614 [main] INFO  testCases.TC001_AccountRegistrationTest -****Redirected to account registration page***
+23:03:68:686 [main] INFO  testCases.TC001_AccountRegistrationTest -****Setted first name***
+23:03:74:741 [main] INFO  testCases.TC001_AccountRegistrationTest -****Setted last name***
+23:03:79:793 [main] INFO  testCases.TC001_AccountRegistrationTest -****Setted email***
+23:03:84:846 [main] INFO  testCases.TC001_AccountRegistrationTest -****Setted telephone***
+23:03:90:901 [main] INFO  testCases.TC001_AccountRegistrationTest -****Setted password***
+23:03:95:956 [main] INFO  testCases.TC001_AccountRegistrationTest -****Setted conform password***
+23:03:02:027 [main] INFO  testCases.TC001_AccountRegistrationTest -****clicked on no at subcribed***
+23:03:13:130 [main] INFO  testCases.TC001_AccountRegistrationTest -****checked privacypolicy***
+23:03:84:844 [main] INFO  testCases.TC001_AccountRegistrationTest -****Submitted the data...***
+23:03:87:878 [main] INFO  testCases.TC001_AccountRegistrationTest -****finished Test--TC001_AccountRegistrationTest***
+23:03:90:902 [main] INFO  testCases.TC001_AccountRegistrationTest -****Started Test--TC001_AccountRegistrationTest***
+23:03:90:902 [main] INFO  testCases.TC001_AccountRegistrationTest -****loaded driver***
+23:03:00:001 [main] INFO  testCases.TC001_AccountRegistrationTest -****clicked on myaccount***
+23:03:35:353 [main] INFO  testCases.TC001_AccountRegistrationTest -****clicked on register***
+23:03:35:354 [main] INFO  testCases.TC001_AccountRegistrationTest -****Redirected to account registration page***
+23:03:43:432 [main] INFO  testCases.TC001_AccountRegistrationTest -****Setted first name***
+23:03:49:496 [main] INFO  testCases.TC001_AccountRegistrationTest -****Setted last name***
+23:03:55:553 [main] INFO  testCases.TC001_AccountRegistrationTest -****Setted email***
+23:03:60:609 [main] INFO  testCases.TC001_AccountRegistrationTest -****Setted telephone***
+23:03:67:676 [main] INFO  testCases.TC001_AccountRegistrationTest -****Setted password***
+23:03:73:734 [main] INFO  testCases.TC001_AccountRegistrationTest -****Setted conform password***
+23:03:79:795 [main] INFO  testCases.TC001_AccountRegistrationTest -****clicked on no at subcribed***
+23:03:88:881 [main] INFO  testCases.TC001_AccountRegistrationTest -****checked privacypolicy***
+23:03:62:625 [main] INFO  testCases.TC001_AccountRegistrationTest -****Submitted the data...***
+23:03:65:658 [main] INFO  testCases.TC001_AccountRegistrationTest -****finished Test--TC001_AccountRegistrationTest***
+23:03:62:626 [main] DEBUG org.testng.TestNG -suiteXmlPath: "C:\Selenium-workspace\OpenCartV121\t002Login.xml"
+23:03:18:184 [main] INFO  testCases.TC002_LoginTest -***Starting of Test--TC002_LoginTest***
+23:03:20:206 [main] INFO  testCases.TC002_LoginTest -opened home page
+23:03:33:337 [main] INFO  testCases.TC002_LoginTest -clicked on login
+23:03:59:594 [main] INFO  testCases.TC002_LoginTest -Entered the data
+23:03:64:643 [main] INFO  testCases.TC002_LoginTest -Test-TC002 passed
+23:03:64:644 [main] INFO  testCases.TC002_LoginTest -**Test-2 Finished***
+23:03:80:808 [main] DEBUG org.testng.TestNG -suiteXmlPath: "C:\Selenium-workspace\OpenCartV121\t002Login.xml"
+23:03:69:690 [main] INFO  testCases.TC002_LoginTest -***Starting of Test--TC002_LoginTest***
+23:03:71:712 [main] INFO  testCases.TC002_LoginTest -opened home page
+23:03:80:808 [main] INFO  testCases.TC002_LoginTest -clicked on login
+23:03:05:051 [main] INFO  testCases.TC002_LoginTest -Entered the data
+23:03:01:016 [main] INFO  testCases.TC002_LoginTest -Test-TC002 passed
+23:03:01:016 [main] INFO  testCases.TC002_LoginTest -**Test-2 Finished***

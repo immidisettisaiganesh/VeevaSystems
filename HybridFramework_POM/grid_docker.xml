@@ -1,0 +1,11 @@
+<suite name="Suite" parallel="tests" thread-count="3">
+
+    <test name="ChromeTest">
+        <parameter name="os" value="windows"/>
+        <parameter name="browser" value="chrome"/>
+        <classes>
+            <class name="testCases.TC001_AccountRegistrationTest"/>
+        </classes>
+    </test>
+
+</suite>
