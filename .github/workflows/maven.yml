@@ -39,5 +39,5 @@ jobs:
       uses: dorny/test-reporter@v1
       with:
         name: TestNG Results
-        path: test-output/testng.xml
+        path: testng.xml
         reporter: java-junit
