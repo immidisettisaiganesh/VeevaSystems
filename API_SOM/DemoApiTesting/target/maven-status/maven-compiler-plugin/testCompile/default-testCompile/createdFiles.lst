@@ -1,0 +1,17 @@
+com\api\models\request\SignUpRequest.class
+com\api\listeners\TestListener.class
+com\api\models\response\UserProfileResponse.class
+com\api\models\request\SignUpRequest$Builder.class
+com\api\test\ResetPasswordTest.class
+com\api\models\request\ResetPasswordRequest$Builder.class
+com\api\service\UserManagementService.class
+com\api\test\AccountCreationTest.class
+com\api\models\request\ResetPasswordRequest.class
+com\api\models\request\LoginRequest.class
+com\api\filters\LoggingFilter.class
+com\api\test\ForgotPasswordTest.class
+com\api\test\GetUserProfileTest.class
+com\basePackage\BaseService.class
+com\api\models\response\LoginResponse.class
+com\api\service\AuthService.class
+com\api\test\LoginApiTest.class
