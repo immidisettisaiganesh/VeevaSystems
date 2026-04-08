@@ -33,7 +33,6 @@ jobs:
       with:
         name: test-artifacts
         path: |
-          target/surefire-reports/
           test-output/
           logs/
 
@@ -42,5 +41,5 @@ jobs:
       uses: turing85/publish-report@v2
       with:
         report-name: "TestNG Results"
-        report-path: "target/surefire-reports/*.xml"
+        report-path: "test-output/junitreports/TEST-*.xml"
         report-reporter: "java-junit"
