@@ -40,4 +40,3 @@ jobs:
       with:
         name: TestNG Results
         path: test-output/testng-results.xml
-        reporter: java-junit
