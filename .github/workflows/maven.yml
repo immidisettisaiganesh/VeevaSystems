@@ -8,10 +8,6 @@ on:
 jobs:
   build:
     runs-on: ubuntu-latest
-    permissions: 
-      checks: write
-      contents: read
-      issues: write
 
     defaults:
       run:
@@ -36,12 +32,15 @@ jobs:
       uses: actions/upload-artifact@v4
       with:
         name: test-artifacts
-        path: API_SOM/DemoApiTesting/logs/
+        path: |
+          target/surefire-reports/
+          test-output/
+          logs/
 
     - name: Publish Test Report
-      if : always()
-      uses: turing85/publish-report@v2.3.2
+      if: always()
+      uses: turing85/publish-report@v2
       with:
-        name : report-artifacts
-        path : API_SOM/DemoApiTesting/test-output/junitreports/
-    
+        report-name: "TestNG Results"
+        report-path: "target/surefire-reports/*.xml"
+        report-reporter: "java-junit"
