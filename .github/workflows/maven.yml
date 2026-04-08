@@ -3,7 +3,7 @@ name: API Testing Framework
 on:
   push:
     branches: [ "main" ]
-  workflow_dispatch:   # manual run option
+  workflow_dispatch:
 
 jobs:
   build:
@@ -11,18 +11,18 @@ jobs:
 
     defaults:
       run:
-        working-directory: API_SOM/DemoApiTesting   # 🔥 correct project folder
+        working-directory: API_SOM/DemoApiTesting
 
     steps:
     - name: Checkout Code
       uses: actions/checkout@v4
 
-    - name: Set up JDK 11
+    - name: Set up JDK 17   # 🔥 FIXED HERE
       uses: actions/setup-java@v4
       with:
-        java-version: '11'
+        java-version: '17'
         distribution: 'temurin'
-        cache: maven   # 🚀 faster builds
+        cache: maven
 
     - name: Execute TestNG Tests
       run: mvn clean test -Dsurefire.suiteXmlFiles=testng.xml
