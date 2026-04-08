@@ -43,5 +43,5 @@ jobs:
       uses: turing85/publish-report@v2.3.2
       with:
         name : report-artifacts
-        path : API_SOM/DemoApiTesting/test-output/junitreports/TEST-*.xml
+        path : API_SOM/DemoApiTesting/test-output/junitreports/
     
