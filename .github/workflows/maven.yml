@@ -32,12 +32,12 @@ jobs:
       uses: actions/upload-artifact@v4
       with:
         name: test-artifacts
-        path: logs/
+        path: API_SOM/DemoApiTesting/logs/
 
     - name: Publish Test Report
       if: always()
       uses: dorny/test-reporter@v1
       with:
         name: TestNG Results
-        path: test-output/testng-results.xml
+        path: API_SOM/DemoApiTesting/test-output/testng-results.xml
         reporter: java-junit
