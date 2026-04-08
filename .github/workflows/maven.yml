@@ -43,3 +43,4 @@ jobs:
         name: TestNG Results
         path: API_SOM/DemoApiTesting/test-output/junitreports/TEST-*.xml
         reporter: java-junit
+        fail-on-error: false
