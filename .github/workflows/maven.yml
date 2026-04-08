@@ -8,6 +8,10 @@ on:
 jobs:
   build:
     runs-on: ubuntu-latest
+    permissions: 
+      checks: write
+      contents: read
+      issues: write
 
     defaults:
       run:
@@ -33,3 +37,11 @@ jobs:
       with:
         name: test-artifacts
         path: API_SOM/DemoApiTesting/logs/
+
+    - name: Publish Test Report
+      if : always()
+      uses: turing85/publish-report@v2.3.2
+      with:
+        name : report-artifacts
+        path : API_SOM/DemoApiTesting/test-output/junitreports/TEST-*.xml
+    
